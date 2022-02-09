@@ -1,0 +1,4 @@
+java 8 installation
+mysql 5.5 
+eclipse
+notepad ++
